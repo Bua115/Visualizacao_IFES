@@ -1,0 +1,9 @@
+name: visualizacao_ifes
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+prefix: C:\Users\jpvme\miniconda3\envs\visualizacao_ifes
